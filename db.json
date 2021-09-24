@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "20th May, 2021",
+      "reminder": true
+    },
+    {
+      "text": "Go to Church",
+      "day": "Today",
+      "reminder": false,
+      "id": 2
+    }
+  ]
+}
